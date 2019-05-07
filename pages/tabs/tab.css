@@ -1,0 +1,12 @@
+.tab-item-cus {
+  display: block
+}
+
+ion-item {
+  text-align: center;
+}
+
+ion-menu {
+  min-width: 12em !important;
+  max-width: 12em !important;
+}
